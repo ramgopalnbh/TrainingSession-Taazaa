@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\bin\Debug\netcoreapp3.1\Day9Delegate.exe
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\bin\Debug\netcoreapp3.1\Day9Delegate.deps.json
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\bin\Debug\netcoreapp3.1\Day9Delegate.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\bin\Debug\netcoreapp3.1\Day9Delegate.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\bin\Debug\netcoreapp3.1\Day9Delegate.dll
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\bin\Debug\netcoreapp3.1\Day9Delegate.pdb
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.dll
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.pdb
+C:\Users\S S INFOTECH\source\repos\Day9Delegate\Day9Delegate\obj\Debug\netcoreapp3.1\Day9Delegate.genruntimeconfig.cache
