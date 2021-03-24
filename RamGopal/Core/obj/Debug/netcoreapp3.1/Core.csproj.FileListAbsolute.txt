@@ -1,0 +1,8 @@
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Trainning\CSarp\Day-7Assignment\RamGopal\Core\obj\Debug\netcoreapp3.1\Core.pdb
