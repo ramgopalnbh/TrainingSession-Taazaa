@@ -1,0 +1,13 @@
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.csprojAssemblyReference.cache
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.AssemblyInfo.cs
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\bin\Debug\netcoreapp3.1\WordNumberOfTimesInString.exe
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\bin\Debug\netcoreapp3.1\WordNumberOfTimesInString.deps.json
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\bin\Debug\netcoreapp3.1\WordNumberOfTimesInString.runtimeconfig.json
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\bin\Debug\netcoreapp3.1\WordNumberOfTimesInString.runtimeconfig.dev.json
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\bin\Debug\netcoreapp3.1\WordNumberOfTimesInString.dll
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\bin\Debug\netcoreapp3.1\WordNumberOfTimesInString.pdb
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.dll
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.pdb
+C:\Trainning\CSarp\WordNumberOfTimesInString\WordNumberOfTimesInString\obj\Debug\netcoreapp3.1\WordNumberOfTimesInString.genruntimeconfig.cache
