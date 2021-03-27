@@ -1,0 +1,13 @@
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\bin\Debug\netcoreapp3.1\DelegateInfoDelevery.exe
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\bin\Debug\netcoreapp3.1\DelegateInfoDelevery.deps.json
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\bin\Debug\netcoreapp3.1\DelegateInfoDelevery.runtimeconfig.json
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\bin\Debug\netcoreapp3.1\DelegateInfoDelevery.runtimeconfig.dev.json
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\bin\Debug\netcoreapp3.1\DelegateInfoDelevery.dll
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\bin\Debug\netcoreapp3.1\DelegateInfoDelevery.pdb
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.csprojAssemblyReference.cache
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.AssemblyInfoInputs.cache
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.AssemblyInfo.cs
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.csproj.CoreCompileInputs.cache
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.dll
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.pdb
+C:\Trainning\CSarp\DelegateInfoDelevery\DelegateInfoDelevery\obj\Debug\netcoreapp3.1\DelegateInfoDelevery.genruntimeconfig.cache
