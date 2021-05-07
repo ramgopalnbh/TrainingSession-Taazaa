@@ -58,11 +58,11 @@
   </mat-toolbar>
   <mat-sidenav-container autosize ><mat-sidenav #sidenav mode="side">
   <mat-nav-list>
-    <a mat-list-item [routerLink]="'/home'"> Home </a>
-  <a mat-list-item routerLink='addproduct'> Add Product </a>
-  <a mat-list-item [routerLink]="'/updateproduct'"> Update Product </a>
-  <a mat-list-item [routerLink]="'updateproduct'">Delete Product</a>
-  <a mat-list-item (click)="sidenav.toggle()" [routerLink]="" mat-list-item>Close</a>
+    <a mat-list-item routerLink="'/home'"> Home </a>
+    <a mat-list-item routerLink='addproduct'> Add Product </a>
+    <a mat-list-item routerLink='updateproduct'> Update Product </a>
+    <!-- <a mat-list-item [routerLink]='deleteproduct'>Delete Product</a> -->
+    <a mat-list-item (click)="sidenav.toggle()" [routerLink]="" mat-list-item>Close</a>
   </mat-nav-list>
   </mat-sidenav>
   <router-outlet></router-outlet>

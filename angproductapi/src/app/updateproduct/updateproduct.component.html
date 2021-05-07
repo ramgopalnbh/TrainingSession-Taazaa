@@ -1,0 +1,61 @@
+<div class="container">
+    <br><br>
+   <div class="text-center">
+       <h4><b>Update Existing Product</b></h4>
+       <hr>
+   </div>
+
+   <div class="input-group myform">
+       <select class="custom-select" id="inputGroupSelect04" [formControl]='selectidControl'>
+           <option selected value="0">Select Product Id</option>
+           <option *ngFor="let p of products$ | async" [value]="p.id">{{p.id}}</option>
+       </select>
+       <div class="input-group-append">
+           <button class="btn btn-outline-secondary" type="button" (click)='showDetails()'>Search</button>
+       </div>
+   </div>
+   
+   <div class="container" style=" background-color: aquamarine; width: 30%; position:absolute; top: 100px; left: 450px;">
+    <form *ngIf="showProductDetails" [formGroup]="updateform" class="myform">
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="title" class="form-control" placeholder="Enter Title">
+        </div>
+
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1">₹</span>
+            </div>
+            <input type="number" formControlName="price" class="form-control" placeholder="Enter Price">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="number" formControlName="quantity" class="form-control" placeholder="Enter Quantity">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="color" class="form-control" placeholder="Enter Color">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" formControlName="expirydate" class="form-control" placeholder="Enter ExpiryDate"
+                onclick="(this.type='date')" onkeyup="(this.type='date')">
+        </div>
+
+        <label>Availability:</label><br>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" formControlName="instock" type="radio" [value]="true">
+            <label class="form-check-label" for="inlineRadio1">InStock</label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input class="form-check-input" formControlName="instock" type="radio" [value]="false">
+            <label class="form-check-label" for="inlineRadio2">OutofStock</label>
+        </div>
+
+        <br><br>
+        <div class="btn-group mr-2">
+            <button type="button" [disabled]="updateform.invalid" class="btn btn-success inline" (click)="update()">Update</button>
+        </div>
+    </form>
+</div>
+</div>

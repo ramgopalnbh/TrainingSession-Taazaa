@@ -31,5 +31,6 @@ export class AddproductComponent implements OnInit {
     product.id =0;
     console.log(product)
     this.myservice.addProduct(product).subscribe();
+    //this.router.navigate(['/home'])
   }
 }

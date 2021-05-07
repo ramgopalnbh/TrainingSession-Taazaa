@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import {HttpClientModule} from '@angular/common/http';
+import { HttpClientModule} from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
@@ -15,9 +15,12 @@ import {​​​​​​​​MatToolbarModule}​​​​​​​​ from'@
 import {​​​​​​​​MatButtonModule}​​​​​​​​ from'@angular/material/button';
 import {​​​​​​​​MatListModule}​​​​​​​​ from'@angular/material/list';
 import {​​​​​​​​MatSelectModule}​​​​​​​​ from'@angular/material/select';
-
-
-
+import { UpdateproductComponent } from './updateproduct/updateproduct.component';
+import {MatTableModule} from '@angular/material/table';
+import { MatproducttableComponent } from './matproducttable/matproducttable.component';
+import {MatTabsModule} from '@angular/material/tabs';
+import {MatExpansionModule} from'@angular/material/expansion';
+import { DeleteproductComponent } from './deleteproduct/deleteproduct.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +28,10 @@ import {​​​​​​​​MatSelectModule}​​​​​​​​ from'@a
     HomeComponent,
     ListwithasyncComponent,
     ListwithobservableComponent,
-    AddproductComponent
+    AddproductComponent,
+    UpdateproductComponent,
+    MatproducttableComponent,
+    DeleteproductComponent
   ],
   imports: [
     BrowserModule,
@@ -39,7 +45,10 @@ import {​​​​​​​​MatSelectModule}​​​​​​​​ from'@a
     MatIconModule,
     MatSelectModule,
     MatListModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    MatTableModule,
+    MatTabsModule,
+    MatExpansionModule
   ],
   providers: [],
   bootstrap: [AppComponent]

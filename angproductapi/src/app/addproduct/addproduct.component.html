@@ -1,5 +1,5 @@
 
-<div class="container" style=" background-color: aquamarine; width: 30%; position:absolute; top: 100px; left: 450px;">
+<div class="container" style=" background-color: aquamarine; width: 30%; position:absolute; top: 100px; left: 420px;">
     <div class="text-center">
         <h4><b>Add New Product</b></h4>
         <br><br>
@@ -22,15 +22,20 @@
         </div>
 
         <div class ="input-group mb-3">
-            <input type="text" formControlName="expirydate" class ="form-control" placeholder="Enter ExpiryDate">
+            <input type="text" formControlName="expirydate" class ="form-control" placeholder="Enter ExpiryDate"
+            onclick="(this.type='date')" onkeyup="(this.type='date')">
         </div>
 
         <div class ="input-group mb-3">
-            <label>Availability</label>
-            <input type="radio" id="one" name="stock" value="st">
-            <label for="instock">InStock</label><br>
-            <input type="radio" id="two" name="stock" value="outst">
-            <label for="outofstock">OutofStock</label><br>
+            <label>Availability:</label>
+            <div class="form-check form-check-inline">
+                <input class= "form-check-input" formControlName="instock" type="radio" [value] ="true">
+                <label class="form-check-label" for="inlineradio1">InStock</label>
+            </div>
+        <div class="form-check form-check-inline">
+            <input class= "form-check-input" formControlName="instock" type="radio" [value] ="false">
+                <label class="form-check-label" for="inlineradio2">OutofStock</label>
+                </div>
         </div>
         <button type="submit" [disabled] = "addform.invalid" class="btn btn-danger">Add</button>
         <button type="reset" class="btn btn-info">Reset</button>
